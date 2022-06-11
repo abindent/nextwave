@@ -26,7 +26,6 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-MANIFEST.in
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -131,6 +130,6 @@ dmypy.json
 .pyre/
 
 # Extras 
-./nextcord_wavelink.egg-info
-./.vscode
-./youtube-dl
+nextwave.egg-info/
+.vscode/
+youtube-dl/

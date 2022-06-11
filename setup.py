@@ -34,7 +34,7 @@ from setuptools import setup
 ROOT = pathlib.Path(__file__).parent
 on_rtd = os.getenv("READTHEDOCS") == "True"
 
-with open(ROOT/"requirements.txt") as f:
+with open("requirements.txt") as f:
     requirements = f.read().splitlines()
     
 if on_rtd:

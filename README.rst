@@ -15,7 +15,7 @@
     :alt: PyPI - Downloads
     
     
-.. image:: https://img.shields.io/maintenance/yes/2022?color=pink&style=for-the-badge
+.. image:: https://img.shields.io/maintenance/no/2022?color=pink&style=for-the-badge
     :target: https://github.com/abindent/nextwave/commits/master
     :alt: Maintenance
 
